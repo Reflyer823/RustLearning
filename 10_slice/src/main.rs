@@ -1,3 +1,5 @@
+#![allow(dead_code, unused)]
+
 fn main() {
     // String切片
     let s = String::from("hello world");

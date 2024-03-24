@@ -1,3 +1,5 @@
+#![allow(dead_code, unused)]
+
 // 结构体定义
 struct User {
     active: bool,

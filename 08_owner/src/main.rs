@@ -1,3 +1,5 @@
+#![allow(dead_code, unused)]
+
 fn main() {
     // 从字面值创建String
     let mut s1 = String::from("Hello");

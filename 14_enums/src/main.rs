@@ -1,3 +1,5 @@
+#![allow(dead_code, unused)]
+
 #[derive(Debug)]
 enum IpAddrKind {
     V4,
